@@ -14,3 +14,19 @@
 - **Easy Integration**: Simple API for integrating with existing data pipelines.
 - **Comprehensive Testing**: Includes extensive test cases covering simple, complex, and edge scenarios.
 - **Customizable**: Easily extendable to incorporate additional merging strategies.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+For any questions or suggestions, feel free to open an issue or contact the maintainer:
+
+- Email: hang960424@sina.com
+- GitHub: [@MissArtemis](https://github.com/MissArtemis)
+
+## Acknowledgements
+
+- Inspired by the need for efficient and accurate merging of clustering results.
+- Thanks to the open-source community for their invaluable contributions and support.
